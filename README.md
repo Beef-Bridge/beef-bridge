@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[![Linkedin](https://img.shields.io/badge/linkedin-777BB4.svg?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/parisnicolas/)
+[![Linkedin](https://img.shields.io/badge/linkedin-0a66c2.svg?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/parisnicolas/)
 
 ### Languages and Tools:
 ![PHP](https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white&logoWidth=20)
