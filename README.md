@@ -35,3 +35,7 @@
 ![GIT](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white&logoWidth=20)
 ![COMPOSER](https://img.shields.io/badge/composer-000000.svg?style=for-the-badge&logo=composer&logoColor=white&logoWidth=20)
 ![NPM](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white&logoWidth=20)
+
+---
+
+![Beef-BRidge's GitHub stats](https://github-readme-stats.vercel.app/api?username=beef-bridge&show_icons=true&theme=default)
