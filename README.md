@@ -11,7 +11,7 @@
 
 ### Languages and Tools:
 #### Backend
-![PHP](https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white&logoWidth=20)
+![PHP](https://img.shields.io/badge/php-AE508D.svg?style=for-the-badge&logo=php&logoColor=white&logoWidth=20)
 ![SYMFONY](https://img.shields.io/badge/symfony-000000.svg?style=for-the-badge&logo=symfony&logoColor=white&logoWidth=20)
 
 #### Frontend
@@ -30,3 +30,8 @@
 ![CENTOS](https://img.shields.io/badge/centos-020008.svg?style=for-the-badge&logo=centos&logoColor=white&logoWidth=20)
 ![UBUNTU](https://img.shields.io/badge/ubuntu-e95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white&logoWidth=20)
 ![DOCKER](https://img.shields.io/badge/docker-2496ed.svg?style=for-the-badge&logo=docker&logoColor=white&logoWidth=20)
+
+#### Other
+![GIT](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white&logoWidth=20)
+![COMPOSER](https://img.shields.io/badge/composer-000000.svg?style=for-the-badge&logo=composer&logoColor=white&logoWidth=20)
+![NPM](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white&logoWidth=20)
