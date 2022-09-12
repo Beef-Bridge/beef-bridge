@@ -38,4 +38,4 @@
 
 ---
 
-![Beef-BRidge's GitHub stats](https://github-readme-stats.vercel.app/api?username=beef-bridge&show_icons=true&hide=contribs,prs&theme=default)
+![Beef-Bridge's GitHub stats](https://github-readme-stats.vercel.app/api?username=beef-bridge&show_icons=true&hide=contribs,prs&theme=default)
