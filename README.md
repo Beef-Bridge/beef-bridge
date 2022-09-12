@@ -1,5 +1,10 @@
-# Bienvenue sur mon Github !
+# Hi, I'm Nicolas aka Beef-Bridge
 
-Salut, je suis développeur web / Symfony dans la région de Grenoble (France).
+## I'm a biker, hiker and developer!
 
-J'occupe le poste de consultant dans ce domaine, depuis juin 2016, pour CapGemini (ancienement Altran Technologies).
+- I work in the Grenoble area, France
+- I'm a consultant in web development, since June 2016, at CapGemini (formerly Altran Technologies).
+
+### Connect with me:
+
+[![Linkedin](https://img.shields.io/badge/linkedin-777BB4.svg?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/parisnicolas/)
