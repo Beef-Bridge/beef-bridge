@@ -23,7 +23,7 @@
 ![ANGULAR](https://img.shields.io/badge/angular-CB3837.svg?style=for-the-badge&logo=angular&logoColor=white&logoWidth=20)
 
 #### Database
-![MARIADB](https://img.shields.io/badge/maraidb-4e629a.svg?style=for-the-badge&logo=mariadb&logoColor=white&logoWidth=20)
+![MARIADB](https://img.shields.io/badge/mariadb-4e629a.svg?style=for-the-badge&logo=mariadb&logoColor=white&logoWidth=20)
 ![POSTGRE](https://img.shields.io/badge/postgresql-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white&logoWidth=20)
 
 #### Server
