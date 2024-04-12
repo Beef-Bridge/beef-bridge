@@ -3,7 +3,7 @@
 ## I'm a biker, hiker and developer!
 
 - :round_pushpin: I work in the Grenoble area, France :fr:
-- :office: I'm a consultant in web development, since June 2016, at CapGemini (formerly Altran Technologies).
+- :office: I'm a web developer.
 
 ### Connect with me:
 
